@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gbenga Oluwadahunsi</h1>
-<h3 align="center">I'm a Software Engineer that specializes in front-end and back-end technologies.I use my skills to provide innovative solutions to commercial and social ideas.</h3>
+<h3 align="center">I'm a Software Developer with expertise in AI-powered applications, I have proficiency in front-end and back-end technologies. I use my skills to provide innovative solutions to commercial and social ideas.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gbengaoluwadahunsi&label=Profile%20views&color=0e75b6&style=flat" alt="gbengaoluwadahunsi" /> </p>
 
@@ -13,11 +13,11 @@
 
 - 📝 I regularly write articles on [https://linkedin.com/in/gbengaoluwadahunsi](https://linkedin.com/in/gbengaoluwadahunsi)
 
-- 💬 Ask me about **React, NextJs, SQL, Python, JavaScript, TypeScript, Django, Hugging Face pretrained models**
+- 💬 Ask me about **React, NextJs, SQL, Python, JavaScript, TypeScript, Django, Hugging Face pre-trained models**
 
 - 📄 Know about my experiences [https://gbengaoluwadahunsi.vercel.app/](https://gbengaoluwadahunsi.vercel.app/)
 
-- ⚡ Fun fact **I love Nature, Jazz music and nice cuisines**
+- ⚡ Fun fact **I love Nature, Jazz music, and nice cuisines**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
