@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://gbengaoluwadahunsi.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://gbengaoluwadahunsi.vercel.app/" height="30" width="40" /></a>
+<a href="https://gbengaoluwadahunsi.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://gbengaoluwadahunsi.vercel.app/" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://linkedin.com/in/gbengaoluwadahunsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/gbengaoluwadahunsi" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/gbengaoluwadahunsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/gbengaoluwadahunsi" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/gbenga.ogundahunsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/gbenga.ogundahunsi" height="30" width="40" /></a>
