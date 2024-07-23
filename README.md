@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gbengaoluwadahunsi" alt="gbengaoluwadahunsi" /></a> </p>
 
-- 🔭 I’m currently working on [HappyChild](https://github.com/gbengaoluwadahunsi/HAPPYCHILD)
+- 🔭 I’m currently working on [HappyChild](https://https://happy-child.vercel.app/)
 
 - 🌱 I’m currently learning **React Native, Deep Learning, Java & Spring Boot**
 
