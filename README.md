@@ -5,17 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gbengaoluwadahunsi" alt="gbengaoluwadahunsi" /></a> </p>
 
-- 🔭 I’m currently working on [ClemaChem Tutor](https://clemachemtutor.vercel.app/)
-
-- 🌱 I’m currently learning **React Native, Deep Learning, Java & Spring Boot**
+- 🔭 I’m currently working on [ClemaChem Tutor](https://www.novatescribe.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/gbengaoluwadahunsi](https://github.com/gbengaoluwadahunsi)
 
 - 📝 I regularly write articles on [https://linkedin.com/in/gbengaoluwadahunsi](https://linkedin.com/in/gbengaoluwadahunsi)
 
-- 💬 Ask me about **React, NextJs, SQL, Python, JavaScript, TypeScript, Django, Hugging Face pre-trained models**
+- 💬 Ask me about **React, NextJs, SQL, Python, JavaScript, TypeScript, FastAPI, Hugging Face pre-trained models**
 
-- 📄 Know about my experiences [https://gbengaoluwadahunsi.vercel.app/](https://gbengaoluwadahunsi.vercel.app/)
+- 📄 Know about my experiences [https://www.gbengaoluwadahunsi.com/](https://wwww.gbengaoluwadahunsi.com/)
 
 - ⚡ Fun fact **I love Nature, Jazz music, and nice cuisines**
 
