@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gbenga Oluwadahunsi</h1>
 <h3 align="center">Fullstack AI Engineer · LLM Memory Systems · RAG</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gbengaoluwadahunsi&label=Profile%20views&color=0e75b6&style=flat" alt="gbengaoluwadahunsi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gbengaoluwadahunsi" alt="gbengaoluwadahunsi" /></a> </p>
 
