@@ -16,7 +16,7 @@ Background: ex-CTO/Founding Engineer (Novate AI) · Full-stack AI Engineer.  I c
 
 ---
 
-- 🔭 Currently building **[ClinicDDI](https://learnaos.com)**
+- 🔭 Currently building **[LearnaOS](https://learnaos.com)**
 - 👨‍💻 All my projects: [github.com/gbengaoluwadahunsi](https://github.com/gbengaoluwadahunsi)
 - 📝 Writing on [LinkedIn](https://linkedin.com/in/gbengaoluwadahunsi)
 - 💬 Ask me about **React, Next.js, Node.js, FastAPI, TypeScript, AI Agents, RAG, HIPAA-aware systems, Edge AI**
