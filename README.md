@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gbenga Oluwadahunsi</h1>
-<h3 align="center">Fullstack AI Engineer · Healthcare · Edge & Private AI</h3>
+<h3 align="center">Fullstack AI Engineer · LLM Memory Systems · RAG</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gbengaoluwadahunsi&label=Profile%20views&color=0e75b6&style=flat" alt="gbengaoluwadahunsi" /> </p>
 
@@ -9,15 +9,14 @@
 
 ### About Me
 
-Fullstack AI Engineer building high-performance, privacy-first healthcare AI systems from the infrastructure up.
+I build stateful AI systems — the infrastructure layer that makes AI useful in production. Memory that persists across sessions, retrieval that's accurate, evaluation that tells you when it's actually working.
 
-I build and ship products — engineered for humans, deployed for scale.
-
-4+ years shipping AI · 3 products in production
+ 
+Background: ex-CTO/Founding Engineer (Novate AI) · Full-stack AI Engineer.  I can build AI products at both the engineering and domain levels, particularly in health, biomedical, and enterprise contexts.
 
 ---
 
-- 🔭 Currently building **[ClinicDDI](https://clinicddi.com)** — AI-powered Drug-Drug Interaction checker for clinical decision making
+- 🔭 Currently building **[ClinicDDI](https://learnaos.com)**
 - 👨‍💻 All my projects: [github.com/gbengaoluwadahunsi](https://github.com/gbengaoluwadahunsi)
 - 📝 Writing on [LinkedIn](https://linkedin.com/in/gbengaoluwadahunsi)
 - 💬 Ask me about **React, Next.js, Node.js, FastAPI, TypeScript, AI Agents, RAG, HIPAA-aware systems, Edge AI**
