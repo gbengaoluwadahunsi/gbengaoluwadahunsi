@@ -2,10 +2,6 @@
 <h3 align="center">Fullstack AI Engineer · LLM Memory Systems · RAG</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gbengaoluwadahunsi" alt="gbengaoluwadahunsi" /></a> </p>
-
----
-
 ### About Me
 
 I build stateful AI systems — the infrastructure layer that makes AI useful in production. Memory that persists across sessions, retrieval that's accurate, evaluation that tells you when it's actually working.
